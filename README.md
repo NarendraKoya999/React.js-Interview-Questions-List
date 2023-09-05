@@ -254,44 +254,44 @@
 
 ### Code Splitting Strategies:
 
-1. What are the potential downsides or trade-offs of route-based code splitting in a React application?
-2. Can you explain the difference between synchronous and asynchronous code splitting in React?
-3. How do you decide which routes or components to split in a large React application?
-4. What are some best practices for naming and organizing code-split chunks in Webpack?
-5. In what situations might you choose not to use `React.lazy` and `Suspense` for code splitting?
-6. How can you handle errors or loading states when using `React.lazy` and `Suspense` for code splitting?
-7. What techniques can you use to reduce the initial loading time of the main bundle in a React application?
-8. How does tree shaking relate to code splitting, and how can it be leveraged for better performance?
-9. Explain the concept of "render tree shaking" in React and how it affects code splitting.
+- What are the potential downsides or trade-offs of route-based code splitting in a React application?
+- Can you explain the difference between synchronous and asynchronous code splitting in React?
+- How do you decide which routes or components to split in a large React application?
+- What are some best practices for naming and organizing code-split chunks in Webpack?
+- In what situations might you choose not to use `React.lazy` and `Suspense` for code splitting?
+- How can you handle errors or loading states when using `React.lazy` and `Suspense` for code splitting?
+- What techniques can you use to reduce the initial loading time of the main bundle in a React application?
+- How does tree shaking relate to code splitting, and how can it be leveraged for better performance?
+- Explain the concept of "render tree shaking" in React and how it affects code splitting.
 
 ### Server-Side Rendering (SSR):
 
-1. What are the potential drawbacks or challenges of implementing server-side rendering in a React application?
-2. How can you handle routing and navigation in a React SSR application to ensure a good user experience?
-3. What are some common security considerations when working with SSR in React?
-4. How does server-side rendering impact the initial page load time compared to client-side rendering?
-5. Can you explain the concept of "hydration" in the context of React SSR?
-6. What strategies can you use to cache or optimize server-rendered pages in a React application?
-7. How does SSR affect the server load and scalability of a React application under heavy traffic?
+- What are the potential drawbacks or challenges of implementing server-side rendering in a React application?
+- How can you handle routing and navigation in a React SSR application to ensure a good user experience?
+- What are some common security considerations when working with SSR in React?
+- How does server-side rendering impact the initial page load time compared to client-side rendering?
+- Can you explain the concept of "hydration" in the context of React SSR?
+- What strategies can you use to cache or optimize server-rendered pages in a React application?
+- How does SSR affect the server load and scalability of a React application under heavy traffic?
 
 ### Memoization Techniques:
 
-1. Compare and contrast the use cases for `React.memo`, `useMemo`, and `useCallback` in React components.
-2. What are the potential downsides of excessive memoization in React components, and how can you avoid them?
-3. Explain the difference between shallow and deep equality checking in memoization.
-4. When should you consider using a custom memoization library like `memoize-one` over React's built-in memoization hooks?
-5. How can memoization improve the performance of event handlers in React components?
-6. Provide examples of scenarios where memoization is not suitable or may not provide performance benefits in React.
+- Compare and contrast the use cases for `React.memo`, `useMemo`, and `useCallback` in React components.
+- What are the potential downsides of excessive memoization in React components, and how can you avoid them?
+- Explain the difference between shallow and deep equality checking in memoization.
+- When should you consider using a custom memoization library like `memoize-one` over React's built-in memoization hooks?
+- How can memoization improve the performance of event handlers in React components?
+- Provide examples of scenarios where memoization is not suitable or may not provide performance benefits in React.
 
 ### Deployment and Build Tools:
 
-1. What is the purpose of a build tool like Webpack in a React project's deployment process?
-2. How can you optimize Webpack configurations for different environments (development, production, etc.)?
-3. Describe the role of source maps in debugging and how they should be configured for production builds.
-4. What strategies can you use to minimize the size of your production bundles in Webpack?
-5. How do you handle environment-specific configuration values during the build process?
-6. Explain the benefits of using a content delivery network (CDN) in the deployment of a React application.
-7. What considerations should you keep in mind when configuring cache headers for assets in a React application deployment?
+- What is the purpose of a build tool like Webpack in a React project's deployment process?
+- How can you optimize Webpack configurations for different environments (development, production, etc.)?
+- Describe the role of source maps in debugging and how they should be configured for production builds.
+- What strategies can you use to minimize the size of your production bundles in Webpack?
+- How do you handle environment-specific configuration values during the build process?
+- Explain the benefits of using a content delivery network (CDN) in the deployment of a React application.
+- What considerations should you keep in mind when configuring cache headers for assets in a React application deployment?
 
 ### Continuous Integration (Additional Questions)
 
