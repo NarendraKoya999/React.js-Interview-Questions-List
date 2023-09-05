@@ -1,5 +1,32 @@
 # React.js Interview Questions
 
+## Table of Contents
+
+1. [Basics of React.js](#basics-of-reactjs)
+2. [React Components](#react-components)
+3. [State and Props](#state-and-props)
+4. [Virtual DOM](#virtual-dom)
+5. [Component Lifecycle](#component-lifecycle)
+6. [Advanced Topics](#advanced-topics)
+   - [React Hooks](#react-hooks)
+7. [Redux](#redux)
+8. [React Router](#react-router)
+9. [Context API](#context-api)
+10. [Error Handling](#error-handling)
+11. [Component Styling in React](#component-styling-in-react)
+   - [CSS-in-JS](#css-in-js)
+   - [CSS Modules](#css-modules)
+   - [Styling Approaches](#styling-approaches)
+12. [Portals](#portals)
+13. [Additional Topics](#additional-topics)
+   - [Testing in React](#testing-in-react)
+   - [Performance Optimization (Additional Questions)](#performance-optimization-additional-questions)
+   - [Continuous Integration (Additional Questions)](#continuous-integration-additional-questions)
+   - [Deployment Process (Additional Questions)](#deployment-process-additional-questions)
+   - [Webpack (Additional Questions)](#webpack-additional-questions)
+   - [Babel Plugins and Customization (Additional Questions)](#babel-plugins-and-customization-additional-questions)
+
+
 ## Basics of React.js
 
 - What is React.js?
