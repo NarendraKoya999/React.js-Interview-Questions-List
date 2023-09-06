@@ -322,8 +322,6 @@
 - Explain the benefits of using Babel macros in a React application and provide an example use case.
 - Describe the process of optimizing Babel.
 
-Certainly! Here's an "Additional Resources" section to provide additional references and resources related to React.js:
-
 ## Additional Resources
 
 ### Official Documentation
